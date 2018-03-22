@@ -3,6 +3,8 @@ https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-man
 http://software-engineer-training.com/git-vs-svn-which-is-better/
 
 
+new line added
+
 for out=>  cd\ out 
 for in => cd c:/ folder name
 
