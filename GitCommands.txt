@@ -1,0 +1,30 @@
+https://gist.github.com/blackfalcon/8428401
+https://github.com/Kunena/Kunena-Forum/wiki/Create-a-new-branch-with-git-and-manage-branches
+http://software-engineer-training.com/git-vs-svn-which-is-better/
+
+
+for out=>  cd\ out 
+for in => cd c:/ folder name
+
+url https://github.com/JonPSmith/SampleMvcWebApp
+https://github.com/JonPSmith/SampleMvcWebApp.git
+
+0.) git clone URL
+0a) ls (this command is proofing that cloning is done )
+0b) git status (this command is using for letest update)
+0c) git checkout -b branchname (for creating new branch)
+0d) git branch (show all branches)
+
+1.) How to create repository in git.
+2.) How to create branch in git   => git checkout -b LocalBranch  (git status => for showing how many branches)
+3.) How to take latest code from git   => git checkout master (First we will get checkout by ($ git checkout master) command then we will pul out by ($ git pull origin master) command)
+4.) How to commit code on git.     => (To add files $ git add, )  git commit -m "Message"
+5.) How to push code on git.      => $ git push origin LocalBranch
+6.) How we resolve conflict with git.   =>   Merge branch 'master' of github.com: ...
+7.) How we merge code from master to sub branch or sub to master branch. =>  git checkout my -feature-branch 
+
+
+
+
+
+
